@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://your-banner-link.com/monogram.gif" alt="Monogramme" width="200"/>
+  <img src="./headBanner.png" alt="Monogram" width="200"/>
 </p>
 
-<h1 align="center">👋 Salut, je suis [Ton Prénom]</h1>
-<h3 align="center">Étudiant en 2ème année d’informatique | Passionné de design & technologies</h3>
+<h1 align="center">Hi </h1>
+<h3 align="center">2nd-year Computer Science Student | Passionate about Sport & Technology</h3>
 
 ---
 
-## 🚀 À propos de moi
-- 🎓 Étudiant en **informatique** (2ème année)
-- 🎨 Intéressé par le **design épuré** et l’UX
-- 💻 En apprentissage constant sur les technos modernes
-- 🔍 Objectif : devenir développeur **Fullstack** avec une touche **créative**
+## 👤 About Me
+- 🎓 Second-year **computer science** student at the University Institute of Technology in Vannes
+- 🎨 Interested in **web app** and UX
+- 🧗 Sports enthusiast (cycling, running) - 74/100 "Club des 100 Cols"
+- 💫 Goal: become a **Fullstack developer** with a **creative touch**
 
 ---
 
-## 🛠️ Compétences Techniques
+## 🛠️ Technical Skills
 
-### Langages & Outils
+### Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -29,28 +29,28 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical" alt="Stats GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
 ---
 
-## 🌐 Me retrouver
+## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/tonprofil" target="_blank">
+  <a href="https://www.linkedin.com/in/matthieu-gouelo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tonmail@gmail.com">
+  <a href="matthieugouelo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Merci de visiter mon profil ✨</p>
+<p align="center">✨ Thanks for visiting my profile ✨</p>
