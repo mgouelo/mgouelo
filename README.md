@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./headBanner.png" alt="Monogram" width="200"/>
+  <img src="./headBanner.png" alt="Monogram" width="100%"/>
 </p>
 
 <h1 align="center">Hi </h1>
