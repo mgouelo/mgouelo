@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./headBanner.png" alt="Monogram" width="100%"/>
+  <img src="./Logo_MG.png" alt="Monogram" width="10%"/>
 </p>
 
 <h1 align="center">Hi ! I'm Gouélo Matthieu </h1>
