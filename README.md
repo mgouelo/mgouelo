@@ -33,18 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mgouelo&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgouelo&layout=compact&theme=radical" alt="Most Used Languages"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/matthieu-gouelo/" target="_blank">
