@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hi ! I'm Gouélo Matthieu </h1>
-<h3 align="center">2nd-year Computer Science Student | Passionate about Sport & Technology</h3>
+<h3 align="center">3 year Computer Science Student | Passionate about Sport & Technology</h3>
 
 ---
 
 ## 👤 About Me
-- 🎓 Second-year **computer science** student at the University Institute of Technology in Vannes
+- 🎓 Third-year **computer science** student at the University Institute of Technology in Vannes
 - 🎨 Interested in **web app** and UX
-- 🧗 Sports enthusiast (cycling, running) - 74/100 "Club des 100 Cols"
+- 🧗 Sports enthusiast (cycling, running) - 91/100 "Club des 100 Cols"
 - 💫 Goal: become a **Fullstack developer** with a **creative touch**
 
 ---
@@ -28,7 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100" height="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" height="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100" height="100" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="100" height="100" />
 </p>
 
 ---
